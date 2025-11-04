@@ -290,13 +290,22 @@ const client = new UthoObjectStorage(config);
 ## Support & Links
 
 - 📖 [Examples](./examples/) - Working code examples
-- � [API Documentation](https://console.utho.com/docs)
-- �🐛 [Report Issues](https://github.com/utho/object-storage/issues)
-- � [Utho Support](https://utho.com/support)
+- 📚 [API Documentation](https://console.utho.com/docs)
+- 🐛 [Report Issues](https://github.com/utho-community/object-storage/issues)
+- 💬 [Support](https://utho.com)
 
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
+
+## Author
+
+The original author of Utho Object Storage SDK is [Anwaarul Haque](https://github.com/anwaarulhaque)
+
+## Contributors
+
+This project is maintained by the Utho Community.
+
 
 ---
 
