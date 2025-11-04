@@ -1,6 +1,6 @@
 {
   "name": "@utho-community/object-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utho Community plugin for Node.js integration with Utho.com Object Storage services. Provides TypeScript API client, bucket and object operations, and dual authentication support.",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
